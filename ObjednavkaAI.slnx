@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ObjednavkaAI/ObjednavkaAI.csproj" />
+  <Project Path="ObjednavkaAI.Tests/ObjednavkaAI.Tests.csproj" />
+</Solution>
